@@ -243,7 +243,7 @@ def exploitation_repetability_analysis(res10, res30, res50, time50):
     plt.show()
 
 
-if _name_ == "_main_" :
+if __name__ == "__main__" :
     # uncomment this section to start the algorithm without parallelisation
     # the parameters are specified at the top of this file
     '''
